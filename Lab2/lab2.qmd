@@ -28,7 +28,6 @@ editor: visual
 
 <image src = "images\a.jpg">
 
-### Ответ: 363364
 
 ## Задача 2
 
@@ -36,7 +35,6 @@ editor: visual
 
 <image src = "images\b.jpg">
 
-### Ответ: 6726396441
 
 ## Задача 3
 
@@ -44,7 +42,6 @@ editor: visual
 
 <image src = "images\c.jpg">
 
-### Ответ: 12459379906
 
 ## Задача 4
 
